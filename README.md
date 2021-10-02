@@ -16,4 +16,4 @@ Write a NEW function called game(). Use the previous function inside of this one
 
 ## Source
 
-[TOP - Rock, Paper, Scissors] (https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors)
+[TOP - Rock, Paper, Scissors](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors)
