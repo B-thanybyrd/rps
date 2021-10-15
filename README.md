@@ -4,7 +4,9 @@ RPS is a test project from The Odin Project foundations path. This is my answer 
 
 ## Phases
 
-The first phase is vanilla JS, with UI to be added later.
+1. The first phase is vanilla JS, with UI to be added later.
+  1.1 Refactor to use object & state
+
 
 ## Challenge Specifics
 
